@@ -1,3 +1,4 @@
+# wtf was i thinking when i wrote this
 for x in range(1,11):
         if x == 1:
             input1 = int(input("Please enter an integer: "))
